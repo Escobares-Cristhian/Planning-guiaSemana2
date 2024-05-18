@@ -27,6 +27,8 @@ share/python-wheels/
 *.~lock*
 *#
 **/*#
+git-sim_media/*
+
 MANIFEST
 
 # PyInstaller
