@@ -28,6 +28,7 @@ share/python-wheels/
 *#
 **/*#
 git-sim_media/*
+**/git-sim_media/*
 
 MANIFEST
 
